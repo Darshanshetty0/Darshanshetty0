@@ -1,3 +1,4 @@
+![MasterHead](https://www.linkpicture.com/q/Untitled-design-3_3.png)
 <h1 align="center">Hey there! I'm Darshan Sathish Shetty</h1>
 <h3 align="center">I believe in quality projects, over quantity projects...</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
